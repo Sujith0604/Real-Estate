@@ -35,26 +35,6 @@ const FooterSection = () => {
               <p className="mt-[42px] text-[#7A7A7E] text-[16px] font-normal space-y-[18px] font-poppins">
                 You’ll find your next home, in any style you prefer.
               </p>
-              <div className="flex mt-10 space-x-4">
-                <a
-                  className="w-7 h-7 bg-[#F9F9F9] rounded text-center"
-                  href="#"
-                >
-                  <FacebookIcon />
-                </a>
-                <a
-                  className="w-7 h-7 bg-[#F9F9F9] rounded text-center"
-                  href="#"
-                >
-                  <InstagramIcon />
-                </a>
-                <a
-                  className="w-7 h-7 bg-[#F9F9F9] rounded text-center"
-                  href="#"
-                >
-                  <LinkedInIcon />
-                </a>
-              </div>
             </div>
           </div>
 
