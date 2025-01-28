@@ -7,10 +7,12 @@ import FooterSection from "./Sections/FooterSection";
 import HeaderSection from "./Sections/HeaderSection";
 import HowWeWorkSection from "./Sections/HowWeWorkSection";
 import LaunchingSoon from "./Sections/LaunchingSoon";
+import WhatsappIconFixed from "./Sections/WhatsappIconFixed";
 
 const App = () => {
   return (
     <div className=" flex flex-col gap-5">
+      <WhatsappIconFixed />
       <HeaderSection />
       <LaunchingSoon />
       <ClientSection />
